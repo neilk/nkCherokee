@@ -1,0 +1,25 @@
+This directory contains:
+
+* nkCherokee.ttf -- this is the font file. Consult your operating system help to learn how
+to install it
+
+* nkCherokee-grid.pdf -- a sampler of how the font looks, in the traditional grid arrangement
+of Cherokee syllabary.
+
+* Cherokee Font Key Strokes.html -- contains info on the keyboard mapping. It is the same as the
+"traditional" Cherokee font that was in common use around 2002, when this font was designed.
+
+* LICENSE.txt -- contains information about copyright and licensing.
+
+
+Additional notes on the design:
+
+After almost a decade (!) there are several things that I am unhappy about with this font. The
+design of a few characters could be improved, particularly NV. If you would like to adopt this 
+font I would suggest a revision there. I would have done it myself but I am having trouble with
+my font-editing software and I did not want to delay getting this font to you any longer.
+
+Hope you find this useful. The source files for the font are available on request as well.
+
+-- Neil Kandalgaonkar, 15 February 2011
+
