@@ -3,6 +3,8 @@ This directory contains:
 * nkCherokee.ttf -- this is the font file. Consult your operating system help to learn how
 to install it
 
+* nkCherokee.sfd -- FontForge source file
+
 * nkCherokee-grid.pdf -- a sampler of how the font looks, in the traditional grid arrangement
 of Cherokee syllabary.
 
@@ -19,9 +21,7 @@ See: http://www.cherokee.org/Culture/Font/Keyboard.htm
 After almost a decade (!) there are several things that I am unhappy about with this font. The
 design of a few characters could be improved, particularly NV. If you would like to adopt this 
 font I would suggest a revision there. I would have done it myself but I am having trouble with
-my font-editing software and I did not want to delay getting this font to you any longer.
-
-Hope you find this useful. The source files for the font are available on request as well.
+my font-editing software at the moment.
 
 -- Neil Kandalgaonkar, 15 February 2011
 
