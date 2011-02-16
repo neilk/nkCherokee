@@ -6,13 +6,15 @@ to install it
 * nkCherokee-grid.pdf -- a sampler of how the font looks, in the traditional grid arrangement
 of Cherokee syllabary.
 
-* Cherokee Font Key Strokes.html -- contains info on the keyboard mapping. It is the same as the
-"traditional" Cherokee font that was in common use around 2002, when this font was designed.
-
 * LICENSE.txt -- contains information about copyright and licensing.
 
 
 Additional notes on the design:
+
+This font does not use the proper unicode page for Cherokee, as it was designed as a 
+drop-in replacement for the traditional Cherokee nation font, which uses another keyboard mapping. 
+Multi-glyph characters have also been replicated.
+See: http://www.cherokee.org/Culture/Font/Keyboard.htm
 
 After almost a decade (!) there are several things that I am unhappy about with this font. The
 design of a few characters could be improved, particularly NV. If you would like to adopt this 
